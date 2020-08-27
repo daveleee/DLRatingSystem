@@ -3,11 +3,11 @@ This is an API of star rating system with comments for an user. Both customers a
  
 ## Demonstration
 ### Email Template 
-<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/1.gif" width="320" height="590" />
+<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/1.gif" height="500" />
 ### Rating Template 
-<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/2.gif" height="590" />
+<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/2.gif" height="500" />
 ### Submit Rating Template 
-<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/3.gif" width="320" height="590" />
+<img src="https://raw.githubusercontent.com/daveleee/DLRatingSystem/master/3.gif" height="500" />
  
 ## Requirements 
  - Python Version - `Python 3`
